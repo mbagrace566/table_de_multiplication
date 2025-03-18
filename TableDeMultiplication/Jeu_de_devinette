@@ -1,2 +1,21 @@
-git init
-
+#include<stdio.h>
+#include<stdlib.h>
+#include<time.h>
+int main ()
+int nbre=0;
+const min =1;
+const max =100;
+int compteur=0;
+stand(time(null));
+nombremystere=(rand()%(max-min+1)+min;
+printf("deviner un nbre")
+scanf("%d",&nbre);
+do  
+If (nbre >nombremystere )
+  printf("nbre supérieur");
+else if 
+  printf ("nbre inférieur");
+else (nbre==nombremystere)
+  printf ("vous avez trouvé le nombremystere");
+printf ("deviner un nbre");
+while(i allant de 1 a 100 ; compteur=compteur+1;pat=a++)
