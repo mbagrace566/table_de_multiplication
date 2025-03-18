@@ -10,7 +10,7 @@ stand(time(null));
 nombremystere=(rand()%(max-min+1)+min;
 printf("deviner un nbre")
 scanf("%d",&nbre);
-do  
+do. {
 If (nbre >nombremystere )
   printf("nbre supérieur");
 else if 
@@ -18,6 +18,6 @@ else if
 else (nbre==nombremystere)
   printf ("vous avez trouvé le nombremystere");
 printf ("deviner un nbre");
-while(i allant de 1 a 100 ; compteur=compteur+1;i++)
-   return 0  
+while(i allant de 1 a 100 ; compteur=compteur+1;i++)}
+   return 0 ; 
                 }
