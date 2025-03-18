@@ -1,7 +1,7 @@
 #include<stdio.h>
 #include<stdlib.h>
 #include<time.h>
-int main ()
+int main () {
 int nbre=0;i=0;
 const min =1;
 const max =100;
@@ -19,3 +19,5 @@ else (nbre==nombremystere)
   printf ("vous avez trouvé le nombremystere");
 printf ("deviner un nbre");
 while(i allant de 1 a 100 ; compteur=compteur+1;i++)
+   return 0  
+                }
